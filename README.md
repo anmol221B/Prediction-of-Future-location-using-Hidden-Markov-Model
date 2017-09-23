@@ -3,4 +3,5 @@ The aim was to predict the user's future location using the past data. As if we 
 
 research paper followed : Detecting Meaningful Places and Predicting Locations Using Varied K-Means and Hidden Markov Model
                           by Neelabh Pant and Ramez Elmasri
+                          
 dataset : Geolife_Trajectories
